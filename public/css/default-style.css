@@ -6,6 +6,10 @@
     padding: 0;
 }
 
+.container {
+    background-color: #999;
+}
+
 .grid-item {
     border-radius: 7px;
     color: #eee;
